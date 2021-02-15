@@ -1,21 +1,23 @@
 body
 {
     margin: 0;
+    background-color: lightgray;
 }
 
 .splide
 {
     margin: auto;
+    width: 1024px;
 }
 .splide_track
 {
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 img
 {
     width: 1024px;
     height: 754px;
-    margin:0 auto;
-    display:block;
 }
